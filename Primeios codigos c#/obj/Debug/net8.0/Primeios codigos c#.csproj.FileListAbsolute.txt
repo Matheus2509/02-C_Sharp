@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C#\Primeios codigos c#\bin\Debug\net8.0\Primeios codigos c#.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C#\Primeios codigos c#\bin\Debug\net8.0\Primeios codigos c#.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C#\Primeios codigos c#\bin\Debug\net8.0\Primeios codigos c#.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C#\Primeios codigos c#\bin\Debug\net8.0\Primeios codigos c#.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C#\Primeios codigos c#\bin\Debug\net8.0\Primeios codigos c#.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C#\Primeios codigos c#\obj\Debug\net8.0\Primeios codigos c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C#\Primeios codigos c#\obj\Debug\net8.0\Primeios codigos c#.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C#\Primeios codigos c#\obj\Debug\net8.0\Primeios codigos c#.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C#\Primeios codigos c#\obj\Debug\net8.0\Primeios codigos c#.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C#\Primeios codigos c#\obj\Debug\net8.0\Primeios codigos c#.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C#\Primeios codigos c#\obj\Debug\net8.0\refint\Primeios codigos c#.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C#\Primeios codigos c#\obj\Debug\net8.0\Primeios codigos c#.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C#\Primeios codigos c#\obj\Debug\net8.0\Primeios codigos c#.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C#\Primeios codigos c#\obj\Debug\net8.0\ref\Primeios codigos c#.dll

@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Projetos novos\\02-C#\\Por\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3BAA6B-4A58-445D-BA1E-230F40DEF263}|Por.csproj|c:\\users\\mathe\\onedrive\\\u00E1rea de trabalho\\projetos novos\\02-c#\\por\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3BAA6B-4A58-445D-BA1E-230F40DEF263}|Por.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3BAA6B-4A58-445D-BA1E-230F40DEF263}|Por.csproj|c:\\users\\mathe\\onedrive\\\u00E1rea de trabalho\\projetos novos\\02-c#\\por\\classes\\juritica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3BAA6B-4A58-445D-BA1E-230F40DEF263}|Por.csproj|solutionrelative:classes\\juritica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3BAA6B-4A58-445D-BA1E-230F40DEF263}|Por.csproj|c:\\users\\mathe\\onedrive\\\u00E1rea de trabalho\\projetos novos\\02-c#\\por\\classes\\impostos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3BAA6B-4A58-445D-BA1E-230F40DEF263}|Por.csproj|solutionrelative:classes\\impostos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3BAA6B-4A58-445D-BA1E-230F40DEF263}|Por.csproj|c:\\users\\mathe\\onedrive\\\u00E1rea de trabalho\\projetos novos\\02-c#\\por\\classes\\fisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3BAA6B-4A58-445D-BA1E-230F40DEF263}|Por.csproj|solutionrelative:classes\\fisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Juritica.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Projetos novos\\02-C#\\Por\\Classes\\Juritica.cs",
+              "RelativeDocumentMoniker": "Classes\\Juritica.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Projetos novos\\02-C#\\Por\\Classes\\Juritica.cs",
+              "RelativeToolTip": "Classes\\Juritica.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:31:31.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fisica.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Projetos novos\\02-C#\\Por\\Classes\\Fisica.cs",
+              "RelativeDocumentMoniker": "Classes\\Fisica.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Projetos novos\\02-C#\\Por\\Classes\\Fisica.cs",
+              "RelativeToolTip": "Classes\\Fisica.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:31:13.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Impostos.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Projetos novos\\02-C#\\Por\\Classes\\Impostos.cs",
+              "RelativeDocumentMoniker": "Classes\\Impostos.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Projetos novos\\02-C#\\Por\\Classes\\Impostos.cs",
+              "RelativeToolTip": "Classes\\Impostos.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBIAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:31:01.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Projetos novos\\02-C#\\Por\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Projetos novos\\02-C#\\Por\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCoAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:23:11.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
