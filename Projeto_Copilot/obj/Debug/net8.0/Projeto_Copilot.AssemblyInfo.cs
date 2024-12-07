@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projeto_Copilot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39acd2bf74c257d54c479f1b88e6e20851b09cd5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projeto_Copilot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Projeto_Copilot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

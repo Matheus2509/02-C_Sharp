@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5C42600A-137E-49B9-89F6-F6A9540C8235}|Projeto_Copilot.csproj|c:\\users\\mathe\\onedrive\\\u00E1rea de trabalho\\projetos novos\\02-c#\\projeto_copilot\\carros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C42600A-137E-49B9-89F6-F6A9540C8235}|Projeto_Copilot.csproj|solutionrelative:carros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C42600A-137E-49B9-89F6-F6A9540C8235}|Projeto_Copilot.csproj|c:\\users\\mathe\\onedrive\\\u00E1rea de trabalho\\projetos novos\\02-c#\\projeto_copilot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C42600A-137E-49B9-89F6-F6A9540C8235}|Projeto_Copilot.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +14,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Projetos novos\\02-C#\\Projeto_Copilot\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Projetos novos\\02-C#\\Projeto_Copilot\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T22:54:55.192Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -45,9 +28,9 @@
               "RelativeDocumentMoniker": "Carros.cs",
               "ToolTip": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Projetos novos\\02-C#\\Projeto_Copilot\\Carros.cs",
               "RelativeToolTip": "Carros.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T22:54:42.495Z",
+              "WhenOpened": "2024-11-07T19:29:35.909Z",
               "EditorCaption": ""
             }
           ]
