@@ -9,21 +9,26 @@ namespace Files
             string Local = @"C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\file1.txt";
             string Criar = @"C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\file2.txt";
 
+            StreamReader sr = null;
+
             try
             {
-                FileInfo fileInfo = new FileInfo(Local);
-                fileInfo.CopyTo(Criar);
-                string[] line = File.ReadAllLines(Local);
-
-                foreach (string line2 in line) {
-                    Console.WriteLine(line2);                
-                
+                sr = File.OpenText(Local);
+                while (!sr.EndOfStream)
+                {
+                    string line = sr.ReadLine();
+                    Console.WriteLine(line);
                 }
+            }
+            catch (IOException x)
+            {
+                Console.WriteLine("Erro; " + x.Message);
+            }
+            finally {
+                if (sr != null) sr.Close();
+            }
+         }
 
-            }
-            catch (IOException e) {
-                Console.WriteLine("Erro encontrado" + e.Message);
-            }
-        }
     }
 }
+
