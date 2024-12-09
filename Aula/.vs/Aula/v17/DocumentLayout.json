@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Projetos novos\\02-C#\\Aula\\",
+  "WorkspaceRootPath": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Projetos novos\\02-C_Sharp\\Aula\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17E63B19-413D-494D-AED6-31FB7ECFFE0B}|Aula.csproj|c:\\users\\mathe\\onedrive\\\u00E1rea de trabalho\\projetos novos\\02-c#\\aula\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17E63B19-413D-494D-AED6-31FB7ECFFE0B}|Aula.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17E63B19-413D-494D-AED6-31FB7ECFFE0B}|Aula.csproj|c:\\users\\mathe\\onedrive\\\u00E1rea de trabalho\\projetos novos\\02-c#\\aula\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{17E63B19-413D-494D-AED6-31FB7ECFFE0B}|Aula.csproj|c:\\users\\mathe\\onedrive\\\u00E1rea de trabalho\\projetos novos\\02-c_sharp\\aula\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17E63B19-413D-494D-AED6-31FB7ECFFE0B}|Aula.csproj|solutionrelative:conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17E63B19-413D-494D-AED6-31FB7ECFFE0B}|Aula.csproj|c:\\users\\mathe\\onedrive\\\u00E1rea de trabalho\\projetos novos\\02-c#\\aula\\exce\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17E63B19-413D-494D-AED6-31FB7ECFFE0B}|Aula.csproj|solutionrelative:exce\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Conta.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Projetos novos\\02-C#\\Aula\\Conta.cs",
-              "RelativeDocumentMoniker": "Conta.cs",
-              "ToolTip": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Projetos novos\\02-C#\\Aula\\Conta.cs",
-              "RelativeToolTip": "Conta.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAACMAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T22:38:59.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Exce\u00E7\u00E3o.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Projetos novos\\02-C#\\Aula\\Exce\u00E7\u00E3o.cs",
-              "RelativeDocumentMoniker": "Exce\u00E7\u00E3o.cs",
-              "ToolTip": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Projetos novos\\02-C#\\Aula\\Exce\u00E7\u00E3o.cs",
-              "RelativeToolTip": "Exce\u00E7\u00E3o.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T22:34:23.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Projetos novos\\02-C#\\Aula\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Projetos novos\\02-C#\\Aula\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Projetos novos\\02-C_Sharp\\Aula\\Conta.cs",
+              "RelativeDocumentMoniker": "Conta.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Projetos novos\\02-C_Sharp\\Aula\\Conta.cs",
+              "RelativeToolTip": "Conta.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T22:34:28.354Z",
+              "WhenOpened": "2024-12-08T10:53:00.818Z",
               "EditorCaption": ""
             }
           ]
