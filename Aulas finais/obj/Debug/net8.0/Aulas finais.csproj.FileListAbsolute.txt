@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Aulas finais\bin\Debug\net8.0\Aulas finais.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Aulas finais\bin\Debug\net8.0\Aulas finais.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Aulas finais\bin\Debug\net8.0\Aulas finais.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Aulas finais\bin\Debug\net8.0\Aulas finais.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Aulas finais\bin\Debug\net8.0\Aulas finais.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Aulas finais\obj\Debug\net8.0\Aulas finais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Aulas finais\obj\Debug\net8.0\Aulas finais.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Aulas finais\obj\Debug\net8.0\Aulas finais.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Aulas finais\obj\Debug\net8.0\Aulas finais.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Aulas finais\obj\Debug\net8.0\Aulas finais.sourcelink.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Aulas finais\obj\Debug\net8.0\Aulas finais.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Aulas finais\obj\Debug\net8.0\refint\Aulas finais.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Aulas finais\obj\Debug\net8.0\Aulas finais.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Aulas finais\obj\Debug\net8.0\Aulas finais.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Aulas finais\obj\Debug\net8.0\ref\Aulas finais.dll

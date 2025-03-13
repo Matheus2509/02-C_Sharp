@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Projetos novos\\02-C#\\Test\\Test.csproj": {}
+    "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Projetos novos\\02-C_Sharp\\Test\\Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Projetos novos\\02-C#\\Test\\Test.csproj": {
+    "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Projetos novos\\02-C_Sharp\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Projetos novos\\02-C#\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Projetos novos\\02-C_Sharp\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Projetos novos\\02-C#\\Test\\Test.csproj",
+        "projectPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Projetos novos\\02-C_Sharp\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Projetos novos\\02-C#\\Test\\obj\\",
+        "outputPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Projetos novos\\02-C_Sharp\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

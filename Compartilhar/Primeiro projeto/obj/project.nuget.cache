@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kS5Bdg3/lus=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Projetos novos\\02-C_Sharp\\Compartilhar\\Primeiro projeto\\Primeiro projeto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.8\\microsoft.aspnetcore.app.runtime.win-x64.8.0.8.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.8\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.8.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.8\\microsoft.netcore.app.runtime.win-x64.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

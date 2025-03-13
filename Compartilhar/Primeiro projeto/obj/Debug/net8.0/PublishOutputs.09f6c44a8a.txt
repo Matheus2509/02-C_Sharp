@@ -1,0 +1,7 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\obj\Debug\net8.0\PubTmp\Out\Primeiro projeto.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\obj\Debug\net8.0\PubTmp\Out\Primeiro projeto.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\obj\Debug\net8.0\PubTmp\Out\Primeiro projeto.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\obj\Debug\net8.0\PubTmp\Out\Primeiro projeto.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\obj\Debug\net8.0\PubTmp\Out\Primeiro projeto.pdb

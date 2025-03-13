@@ -1,0 +1,31 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\bin\Debug\net8.0\appsettings.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\bin\Debug\net8.0\Primeiro projeto.staticwebassets.runtime.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\bin\Debug\net8.0\Primeiro projeto.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\bin\Debug\net8.0\Primeiro projeto.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\bin\Debug\net8.0\Primeiro projeto.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\bin\Debug\net8.0\Primeiro projeto.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\bin\Debug\net8.0\Primeiro projeto.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\obj\Debug\net8.0\Primeiro projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\obj\Debug\net8.0\Primeiro projeto.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\obj\Debug\net8.0\Primeiro projeto.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\obj\Debug\net8.0\Primeiro projeto.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\obj\Debug\net8.0\Primeiro projeto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\obj\Debug\net8.0\Primeiro projeto.RazorAssemblyInfo.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\obj\Debug\net8.0\Primeiro projeto.RazorAssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\obj\Debug\net8.0\Primeiro projeto.sourcelink.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\obj\Debug\net8.0\staticwebassets\msbuild.Primeiro projeto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\obj\Debug\net8.0\staticwebassets\msbuild.build.Primeiro projeto.props
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Primeiro projeto.props
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Primeiro projeto.props
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\obj\Debug\net8.0\scopedcss\bundle\Primeiro projeto.styles.css
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\obj\Debug\net8.0\scopedcss\projectbundle\Primeiro projeto.bundle.scp.css
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\obj\Debug\net8.0\Primeiro projeto.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\obj\Debug\net8.0\refint\Primeiro projeto.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\obj\Debug\net8.0\Primeiro projeto.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\obj\Debug\net8.0\Primeiro projeto.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Projetos novos\02-C_Sharp\Compartilhar\Primeiro projeto\obj\Debug\net8.0\ref\Primeiro projeto.dll
